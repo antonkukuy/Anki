@@ -1,0 +1,6 @@
+prefs.db
+README.txt
+Anton/*
+!Anton/user_style.css
+!Anton/my_pkgs
+addons/awesometts/.cache/*
