@@ -33,13 +33,31 @@
   background: transparent;
 }
 
-.loc.card {
+.hint{
+  display: none;
+}
+
+.typeBad {
+  color: #dc322f;
+  font-weight: bold;
+  font-size: 23px;
+}
+
+.typeMissed, .typePass {
+  color: #268bd2;
+  font-weight: bold;
+  font-size: 23px;
+}
+
+.typeGood {
+  color: #2ed85a;
+  font-weight: bold;
+}
+
+.loc.card, .loc.card #typeans span {
   background-color: #002b36 !important;
-  margin-bottom: 0px;
 }
 
-.night.card {
+.night.card, .night.card #typeans span {
   background-color: #272828 !important;
-  margin-bottom: 0px;
 }
-
