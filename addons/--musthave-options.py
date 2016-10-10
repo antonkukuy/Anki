@@ -1,9 +1,12 @@
 # -*- mode: Python ; coding: utf-8 -*-
 # Place your Must Have configuration variables here.
 
-deck_browser_standard_zoom = 1.0
-overview_standard_zoom = 1.0
-reviewer_standard_zoom = 1.0
+# deck_browser_standard_zoom = 1.0
+# overview_standard_zoom = 1.0
+# reviewer_standard_zoom = 1.0
+deck_browser_standard_zoom = 1.4
+overview_standard_zoom = 1.4
+reviewer_standard_zoom = 1.1 
 
 ###################################################################
 # If you want to use alternative value
