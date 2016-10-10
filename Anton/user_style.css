@@ -61,3 +61,36 @@
 .night.card, .night.card #typeans span {
   background-color: #272828 !important;
 }
+.card input
+{
+	background-color:black!important;
+	border-color:#444!important;
+	color:#eee!important;
+  font-size: 30px!important;
+}
+.card {
+  font-family: arial;
+  line-height: 1.75em;
+  font-size: 24px;
+  text-align: center;
+  color: white!important;
+  background-color: #272828!important;
+  margin: 0px;
+  padding: 0px;
+}
+#answer
+{
+	height: 0;
+	border: 0;
+	border-bottom: 2px solid #333;
+	border-top: 2px solid black;
+}
+img#star
+{
+	-webkit-filter: invert(0%)!important;
+}
+.cloze
+{
+	color: #33CC33;
+  font-weight: bold;
+}
