@@ -969,6 +969,7 @@ img
 
 
 nm_css_body = """
+'''
 .card input
 {
 	background-color:black!important;
@@ -1005,7 +1006,9 @@ img#star
 {
 	color: #33CC33!important;
 }
+'''
 """
+
 
 nm_css_decks = nm_css_buttons + nm_css_color_replacer + """
 .current
