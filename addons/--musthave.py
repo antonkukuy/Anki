@@ -1178,7 +1178,7 @@ HOTKEY = {      # in mw Main Window (deckBrowser, Overview, Reviewer)
     'F2_ctrl'   : ["Ctrl+Alt+Space", '', "Alt+К, Ч", ''' ''', """ """],  # ^F2
     'F2_card_reschedule' : ["Shift+Space", '', "Alt+К, А", ''' ''', """ """],  # ~F2
     'F2_note_reschedule' : ["Ctrl+Shift+Space", '', "Alt+К, З", ''' ''', """ """],  # ~F2
-    'F3_history'     : ["F3", '', "Alt+К, И", ''' ''', """ """],  # View
+    'F3_history'     : ["F10", '', "Alt+К, И", ''' ''', """ """],  # View
     'F3_HTML_source'      : ["Ctrl+F3", '', "", ''' ''', """ """], 
     'F3_Body_source'      : ["Alt+F3", '', "Alt+К, Х", ''' ''', """ """], 
     'F3_card_stats'  : ["Shift+F3", '', "Alt+К, П", ''' ''', """ """], 
